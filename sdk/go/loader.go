@@ -12,8 +12,8 @@ type dictName string
 const (
 	dictBaseURI = "https://cdn.jsdelivr.net/gh/Reallife/test-mono"
 
-	DictDir1 = "dir_1"
-	DictDir2 = "dir_2"
+	DictDir1 dictName = "dir_1"
+	DictDir2 dictName = "dir_2"
 )
 
 type Dict struct {
