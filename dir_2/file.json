@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "version": "v0.0.1",
+    "name": "DIR_2_FILE",
+    "description": "File in dir_2"
+  },
+  "guide": [
+    {
+      "id": "DIR_2_FILE_FOO",
+      "description": "foo item for file in dir_1"
+    },
+    {
+      "id": "DIR_2_FILE_BAR",
+      "description": "bar item for file in dir_2"
+    }
+  ]
+}
