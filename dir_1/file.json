@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "v0.0.2",
+    "version": "v0.0.3",
     "name": "DIR_1_FILE",
     "description": "File in dir_1"
   },
@@ -16,6 +16,10 @@
     {
       "id": "DIR_1_FILE_BAZ",
       "description": "baz item for file in dir_1"
+    },
+    {
+      "id": "DIR_1_FILE_BAR_BAZ",
+      "description": "bar_baz item for file in dir_1"
     }
   ]
 }
